@@ -30,3 +30,8 @@ Some of the features:
   - Displays headline, source, and the publication date.
 - **Responsive design**: The application adapts to various screen sizes.
 
+
+### 📽️ Demo
+
+[![Watch the demo](https://img.youtube.com/vi/Qt7l9R5JVL0/0.jpg)](https://www.youtube.com/watch?v=Qt7l9R5JVL0)
+
