@@ -1,0 +1,10 @@
+CHANGES FROM PREVIOUS VERSIONS
+ 1) change the components to function based
+ 2) Added a loading bar
+ 
+
+ IF AN IMAGE IS NOT ACCESSIBLE OR ACCESS IS BLOCKED USE THIS IN IMAGE TAG OF NEWSITEM.JS : 
+ onError={event => {
+    event.target.src = "./noimage.png"      /* on error used when image available but access blocked*/ 
+    event.onerror = null
+                      }}

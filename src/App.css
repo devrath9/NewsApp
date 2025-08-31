@@ -1,0 +1,58 @@
+ @import url("https://fonts.googleapis.com/css2?family=Kanit&family=Antonio&family=Jaro:opsz@6..72&family=Poppins&display=swap");
+
+.App {
+  text-align: center;
+ 
+  
+}
+
+
+.card, .heading, .appname, .navbar-toggler-icon,.bold{
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+
+}
+
+.card-img-top{
+ 
+  padding:7px; 
+  border-radius:10px
+}
+
+.btn-primary{
+  background-color: rgb(58, 75, 59);
+  border-color: rgb(58, 75, 59);
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+}
+.bold{                                    /*for news category links*/
+  font-size: 18px;
+  font-weight: 500;
+  font-family: "Kanit", sans-serif;
+}
+
+ .heading{
+  font-family: "Antonio", sans-serif;
+  
+
+}
+.appname{
+   font-family: "Jaro", sans-serif;
+   font-size: 23px; 
+   background: linear-gradient(180deg, #92b1ac, #a042c5);
+   -webkit-background-clip: text;
+             background-clip: text;
+     -webkit-text-fill-color: transparent;
+}
+
+
+
+
+
+
+
+
+ 
+
+
