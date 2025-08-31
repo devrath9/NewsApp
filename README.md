@@ -33,5 +33,7 @@ Some of the features:
 
 ### 📽️ Demo
 
+Click on the Thumbnail to open the video on youtube
+
 [![Watch the demo](https://img.youtube.com/vi/Qt7l9R5JVL0/0.jpg)](https://www.youtube.com/watch?v=Qt7l9R5JVL0)
 
