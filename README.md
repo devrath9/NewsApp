@@ -13,10 +13,20 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 This is a news aggregator created using NEWSAPI.ORG. Their resource is being used to generate json files of news items based on categories. 
 Some of the features:
 
-a) Infinite scrolling till items are exhausted only loading certain number of news items at a time
-b) Top Loading bar to signify whether route is fully loaded and fetched
-c) 6 categories of news(Business, Health, Sports, Science, Technology, Entertainment) along with a general news section as well.
-c) Each NewsItem has an embedded link to redirect to the original news article.
-d) Each NewsItem gives detail of headline, source of the news and  date of the article published
-e) The application is responsive across screen sizes
+### Features
+
+- **Infinite scrolling**: Loads a certain number of news items at a time, continuing until all items are exhausted.
+- **Top Loading bar**: Shows progress to indicate whether the route is fully loaded and fetched.
+- **Categories**: News categorized into 6 sections:
+  - Business
+  - Health
+  - Sports
+  - Science
+  - Technology
+  - Entertainment
+  - General News
+- **NewsItem Details**:
+  - Embedded link to redirect to the original news article.
+  - Displays headline, source, and the publication date.
+- **Responsive design**: The application adapts to various screen sizes.
 
